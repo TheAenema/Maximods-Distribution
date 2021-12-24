@@ -1,8 +1,8 @@
 ;; GitHubber v1.1
 REQUIRE [kl2.exe]
-DOWNLOAD [https://github.com/TheAenema/Maximods-Distribution/blob/main/K%26L2DD/739643cd8ad5d35061c95568bca971cdae85e75a]
-DOWNLOAD [https://github.com/TheAenema/Maximods-Distribution/blob/main/K%26L2DD/f58b3fb98d5bf71ddfdf1404ee8704ae448525f0]
-DOWNLOAD [https://github.com/TheAenema/Maximods-Distribution/blob/main/K%26L2DD/891e35afc7e355e4db41804b7fc4c36cc224c57f]
+DOWNLOAD [https://raw.githubusercontent.com/TheAenema/Maximods-Distribution/main/K%26L2DD/739643cd8ad5d35061c95568bca971cdae85e75a]
+DOWNLOAD [https://raw.githubusercontent.com/TheAenema/Maximods-Distribution/main/K%26L2DD/f58b3fb98d5bf71ddfdf1404ee8704ae448525f0]
+DOWNLOAD [https://raw.githubusercontent.com/TheAenema/Maximods-Distribution/main/K%26L2DD/891e35afc7e355e4db41804b7fc4c36cc224c57f]
 RENAME [739643cd8ad5d35061c95568bca971cdae85e75a] [d3d9.dll]
 RENAME [f58b3fb98d5bf71ddfdf1404ee8704ae448525f0] [maximod.app__001]
 RENAME [891e35afc7e355e4db41804b7fc4c36cc224c57f] [maximod.app__002]
