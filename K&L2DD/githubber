@@ -1,5 +1,5 @@
 ;; GitHubber v1.1
-REQUIRE [kl2.exe]
+REQUIRE [%GAME_PATH%/kl2.exe]
 DOWNLOAD [https://raw.githubusercontent.com/TheAenema/Maximods-Distribution/main/K%26L2DD/739643cd8ad5d35061c95568bca971cdae85e75a]
 DOWNLOAD [https://raw.githubusercontent.com/TheAenema/Maximods-Distribution/main/K%26L2DD/f58b3fb98d5bf71ddfdf1404ee8704ae448525f0]
 DOWNLOAD [https://raw.githubusercontent.com/TheAenema/Maximods-Distribution/main/K%26L2DD/891e35afc7e355e4db41804b7fc4c36cc224c57f]
